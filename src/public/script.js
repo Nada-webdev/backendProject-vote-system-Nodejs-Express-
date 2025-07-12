@@ -1,4 +1,4 @@
-const apiUrl = 'https://backendproject-vote-system-nodejs-express.onrender.com';
+const apiUrl = 'https://backendproject-vote-system-nodejs-express.onrender.com/api';
         let token = '';
 
         async function register() {
