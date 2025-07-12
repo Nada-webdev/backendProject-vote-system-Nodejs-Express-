@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:3000/api';
+const apiUrl = 'https://backendproject-vote-system-nodejs-express.onrender.com/';
         let token = '';
 
         async function register() {
